@@ -1,0 +1,17 @@
+.mainFxmlClass {
+    -fx-font: 14px "Sans Serif";
+}
+
+.label {
+    -fx-font: italic "Sans Serif";
+    -fx-text-fill: #FACC2E;
+}
+
+.button {
+    -fx-text-fill: #D358F7;
+    -fx-background-color: #BDBBBF;
+    -fx-border-color: #BDBBBF;
+    -fx-border-radius: 6;
+    -fx-padding: 2 8 2 8;
+}
+
